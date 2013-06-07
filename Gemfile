@@ -13,9 +13,9 @@ end
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
-gem 'sass-rails', '3.2.4'
-gem 'coffee-rails'
-gem 'uglifier', '1.2.3'
+  gem 'sass-rails'
+  gem 'coffee-rails'
+  gem 'uglifier', '1.2.3'
 end
 gem 'jquery-rails'
 group :test, :development do

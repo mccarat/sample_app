@@ -214,7 +214,7 @@ DEPENDENCIES
   pg (= 0.12.2)
   rails
   rspec-rails (= 2.10.0)
-  sass-rails (= 3.2.4)
+  sass-rails
   spork (= 0.9.0)
   sqlite3 (= 1.3.5)
   uglifier (= 1.2.3)
